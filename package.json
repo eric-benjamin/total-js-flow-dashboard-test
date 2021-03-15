@@ -1,7 +1,7 @@
 {
 	"name": "total-js-flow-dashboard-test",
 	"description": "Builds Flow and Dashboard packages in order to run tests.",
-  "repository": "https://github.com/zeke/package-json-to-readme",
+	"repository": "https://github.com/eric-benjamin/total-js-flow-dashboard-test",
 	"version": "1.0.0",
 	"main": "index.js",
 	"dependencies": {
