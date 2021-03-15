@@ -1,0 +1,10 @@
+flow/*
+flowboard/*
+dashboard/*
+databases/*
+packages/*
+public/*
+tmp/*
+node_modules/*
+index.js.json
+package-lock.json
